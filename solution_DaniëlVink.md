@@ -12,7 +12,7 @@ As requested, the titles of these crucially important papers.
 ## Correlation?
 When you plot the data in the CSV file against eachother, you can see that after crossing a threshold of 250k registered WO students, the yearly beer consumption in the Netherlands has risen dramatically.
 
-![Plot1]\images\plot_1.png)
+![Plot1](images/plot_1.png)
 
 You might be inclined to believe that these two facts are related, however, when both the increase of the beer consumption and registered WO students are plotted against time, you can see that these are not synchronous.
 
